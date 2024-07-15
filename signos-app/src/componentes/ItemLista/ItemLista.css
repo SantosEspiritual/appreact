@@ -1,0 +1,11 @@
+.boxSigno {
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+
+.nomeSigno {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
